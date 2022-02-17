@@ -1,1 +1,2 @@
-Hi 
+Boston Housing Authority (BHA) is the US-based public housing agency that provides subsidized public housing to low and moderate-income families and individuals. 
+The aim of the project was to create a regression model using a suitable algorithm for predicting the sales price of the houses depending upon their features like location, year built, area of the house, basement area and quality, and many more. 
